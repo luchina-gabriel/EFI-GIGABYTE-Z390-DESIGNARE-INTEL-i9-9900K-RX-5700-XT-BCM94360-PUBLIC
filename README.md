@@ -1,4 +1,6 @@
-# Hackintosh, Gigabyte Z390 Designare, Intel Core i9 9900K, GPUXXXXXX
+# Hackintosh, Gigabyte Z390 Designare, Intel Core i9 9900K, AMD Radeon RX 5700 XT
+
+<img width="1748" alt="Overview" src="https://github.com/user-attachments/assets/f40eaf17-cecd-4ee5-b893-265201259838" />
 
 # Basic Information
 
